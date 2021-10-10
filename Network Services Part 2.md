@@ -1,7 +1,7 @@
 # THM - Network Services Part 2
 ---
 
-	Date 2021-10-09 | Author: Maik Roland Damm | Version: 1.0
+	Date 2021-10-09 | Author: Maik Roland Damm | Version: 1.0 | Read with Obsidian!!
 
 
 ## Overview
